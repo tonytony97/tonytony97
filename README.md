@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @tonytony97
-- 👀 I’m interested in web development
+- 👋 Hi, I’m Anthony
+- 👀 I’m interested in web development and design
 - 🌱 I’m currently learning web development with The Odin Project
 
 <!---
